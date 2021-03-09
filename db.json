@@ -1,0 +1,54 @@
+{
+    "burgers":[ 
+        {
+            "id":0, 
+            "name":"big mac",
+            "restaurant": "Mc donalds",
+            "website":"www.mcdonalds.com",
+            "desciption":"im loving it",
+            "ingredients":["cheese", "tomatos", "onions", "beef", "bun"],
+            "addresses":[
+                {
+                    "addressId":"0",
+                    "number":"75",
+                    "line":"ven street",
+                    "line2":"Clapham",
+                    "postcode":"10705",
+                    "country":"united states"
+
+                }
+            ]
+
+
+        },  
+
+        {
+            "id":1, 
+            "name":"mc rib",
+            "restaurant": "Mc donalds",
+            "website":"www.mcdonalds.com",
+            "desciption":"only once a year",
+            "ingredients":[ "tomatos", "onions", "pork", "bun"],
+            "addresses":[
+                {
+                    "addressId":"0",
+                    "number":"72",
+                    "line":"ven street",
+                    "line2":"Clapham",
+                    "postcode":"10705",
+                    "country":"united states"
+
+                }
+            ]
+
+
+        } 
+        
+
+
+    ]
+
+
+
+
+}
